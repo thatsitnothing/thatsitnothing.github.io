@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thatsitnothing.github.io/precache-manifest.c90f6294361119ee25e38e20fe829d60.js"
+  "/thatsitnothing.github.io/precache-manifest.0767ee22e1566d37f762aadc7dab27df.js"
 );
 
 self.addEventListener('message', (event) => {
