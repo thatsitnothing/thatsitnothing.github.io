@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/thatsitnothing.github.io/static/css/main.f3579e57.chunk.css",
-    "main.js": "/thatsitnothing.github.io/static/js/main.b09471c6.chunk.js",
-    "main.js.map": "/thatsitnothing.github.io/static/js/main.b09471c6.chunk.js.map",
+    "main.css": "/thatsitnothing.github.io/static/css/main.c1f8bc56.chunk.css",
+    "main.js": "/thatsitnothing.github.io/static/js/main.3749f77d.chunk.js",
+    "main.js.map": "/thatsitnothing.github.io/static/js/main.3749f77d.chunk.js.map",
     "runtime-main.js": "/thatsitnothing.github.io/static/js/runtime-main.99134bd1.js",
     "runtime-main.js.map": "/thatsitnothing.github.io/static/js/runtime-main.99134bd1.js.map",
-    "static/js/2.45d22b63.chunk.js": "/thatsitnothing.github.io/static/js/2.45d22b63.chunk.js",
-    "static/js/2.45d22b63.chunk.js.map": "/thatsitnothing.github.io/static/js/2.45d22b63.chunk.js.map",
+    "static/js/2.e6f07e8f.chunk.js": "/thatsitnothing.github.io/static/js/2.e6f07e8f.chunk.js",
+    "static/js/2.e6f07e8f.chunk.js.map": "/thatsitnothing.github.io/static/js/2.e6f07e8f.chunk.js.map",
     "index.html": "/thatsitnothing.github.io/index.html",
-    "precache-manifest.18a7b29091f900053f56e4bb02e4fbb5.js": "/thatsitnothing.github.io/precache-manifest.18a7b29091f900053f56e4bb02e4fbb5.js",
+    "precache-manifest.b61897a2b9e7635c1a9d98f2c330c192.js": "/thatsitnothing.github.io/precache-manifest.b61897a2b9e7635c1a9d98f2c330c192.js",
     "service-worker.js": "/thatsitnothing.github.io/service-worker.js",
-    "static/css/main.f3579e57.chunk.css.map": "/thatsitnothing.github.io/static/css/main.f3579e57.chunk.css.map",
-    "static/js/2.45d22b63.chunk.js.LICENSE": "/thatsitnothing.github.io/static/js/2.45d22b63.chunk.js.LICENSE",
-    "static/media/bkgimage.css": "/thatsitnothing.github.io/static/media/shopsnow.408b23f1.jpg"
+    "static/css/main.c1f8bc56.chunk.css.map": "/thatsitnothing.github.io/static/css/main.c1f8bc56.chunk.css.map",
+    "static/js/2.e6f07e8f.chunk.js.LICENSE": "/thatsitnothing.github.io/static/js/2.e6f07e8f.chunk.js.LICENSE",
+    "static/media/bkgimage.css": "/thatsitnothing.github.io/static/media/shopsnow.408b23f1.jpg",
+    "static/media/bridge.jpg": "/thatsitnothing.github.io/static/media/bridge.b22d33cc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.99134bd1.js",
-    "static/js/2.45d22b63.chunk.js",
-    "static/css/main.f3579e57.chunk.css",
-    "static/js/main.b09471c6.chunk.js"
+    "static/js/2.e6f07e8f.chunk.js",
+    "static/css/main.c1f8bc56.chunk.css",
+    "static/js/main.3749f77d.chunk.js"
   ]
 }
