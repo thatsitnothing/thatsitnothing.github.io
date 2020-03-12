@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/thatsitnothing.github.io/static/css/main.50b6d81f.chunk.css",
-    "main.js": "/thatsitnothing.github.io/static/js/main.3d56dd68.chunk.js",
-    "main.js.map": "/thatsitnothing.github.io/static/js/main.3d56dd68.chunk.js.map",
+    "main.css": "/thatsitnothing.github.io/static/css/main.37931d3f.chunk.css",
+    "main.js": "/thatsitnothing.github.io/static/js/main.e5a9b49b.chunk.js",
+    "main.js.map": "/thatsitnothing.github.io/static/js/main.e5a9b49b.chunk.js.map",
     "runtime-main.js": "/thatsitnothing.github.io/static/js/runtime-main.99134bd1.js",
     "runtime-main.js.map": "/thatsitnothing.github.io/static/js/runtime-main.99134bd1.js.map",
-    "static/js/2.8d3e9ce3.chunk.js": "/thatsitnothing.github.io/static/js/2.8d3e9ce3.chunk.js",
-    "static/js/2.8d3e9ce3.chunk.js.map": "/thatsitnothing.github.io/static/js/2.8d3e9ce3.chunk.js.map",
+    "static/js/2.88f1cc07.chunk.js": "/thatsitnothing.github.io/static/js/2.88f1cc07.chunk.js",
+    "static/js/2.88f1cc07.chunk.js.map": "/thatsitnothing.github.io/static/js/2.88f1cc07.chunk.js.map",
     "index.html": "/thatsitnothing.github.io/index.html",
-    "precache-manifest.ad8fc9d367f6fc5c762e93505bf71fb0.js": "/thatsitnothing.github.io/precache-manifest.ad8fc9d367f6fc5c762e93505bf71fb0.js",
+    "precache-manifest.064db12729d74706c1593e25473c7e63.js": "/thatsitnothing.github.io/precache-manifest.064db12729d74706c1593e25473c7e63.js",
     "service-worker.js": "/thatsitnothing.github.io/service-worker.js",
-    "static/css/main.50b6d81f.chunk.css.map": "/thatsitnothing.github.io/static/css/main.50b6d81f.chunk.css.map",
-    "static/js/2.8d3e9ce3.chunk.js.LICENSE": "/thatsitnothing.github.io/static/js/2.8d3e9ce3.chunk.js.LICENSE",
+    "static/css/main.37931d3f.chunk.css.map": "/thatsitnothing.github.io/static/css/main.37931d3f.chunk.css.map",
+    "static/js/2.88f1cc07.chunk.js.LICENSE": "/thatsitnothing.github.io/static/js/2.88f1cc07.chunk.js.LICENSE",
     "static/media/bkgimage.css": "/thatsitnothing.github.io/static/media/background.71a9986e.jpg",
     "static/media/App.css": "/thatsitnothing.github.io/static/media/backgroundlogo.33e41993.svg",
     "static/media/scroll.css": "/thatsitnothing.github.io/static/media/shopsnow.408b23f1.jpg",
@@ -20,12 +20,13 @@
     "static/media/glitchnoback.png": "/thatsitnothing.github.io/static/media/glitchnoback.ce742105.png",
     "static/media/hovercard.css": "/thatsitnothing.github.io/static/media/secondfinalcamo.4dee89a3.jpg",
     "static/media/scroll.scss": "/thatsitnothing.github.io/static/media/gradpart1glitchs.056ee852.png",
-    "static/media/mtnmaybe.png": "/thatsitnothing.github.io/static/media/mtnmaybe.77df0b6e.png"
+    "static/media/mtnmaybe.png": "/thatsitnothing.github.io/static/media/mtnmaybe.77df0b6e.png",
+    "static/media/taffy.mp4": "/thatsitnothing.github.io/static/media/taffy.caa609ec.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.99134bd1.js",
-    "static/js/2.8d3e9ce3.chunk.js",
-    "static/css/main.50b6d81f.chunk.css",
-    "static/js/main.3d56dd68.chunk.js"
+    "static/js/2.88f1cc07.chunk.js",
+    "static/css/main.37931d3f.chunk.css",
+    "static/js/main.e5a9b49b.chunk.js"
   ]
 }
