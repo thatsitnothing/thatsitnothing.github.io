@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/thatsitnothing.github.io/static/css/main.ba4ec358.chunk.css",
-    "main.js": "/thatsitnothing.github.io/static/js/main.cd6e9611.chunk.js",
-    "main.js.map": "/thatsitnothing.github.io/static/js/main.cd6e9611.chunk.js.map",
+    "main.css": "/thatsitnothing.github.io/static/css/main.8d090ef1.chunk.css",
+    "main.js": "/thatsitnothing.github.io/static/js/main.bee48a1f.chunk.js",
+    "main.js.map": "/thatsitnothing.github.io/static/js/main.bee48a1f.chunk.js.map",
     "runtime-main.js": "/thatsitnothing.github.io/static/js/runtime-main.99134bd1.js",
     "runtime-main.js.map": "/thatsitnothing.github.io/static/js/runtime-main.99134bd1.js.map",
     "static/js/2.88f1cc07.chunk.js": "/thatsitnothing.github.io/static/js/2.88f1cc07.chunk.js",
     "static/js/2.88f1cc07.chunk.js.map": "/thatsitnothing.github.io/static/js/2.88f1cc07.chunk.js.map",
     "index.html": "/thatsitnothing.github.io/index.html",
-    "precache-manifest.0edd30420aad5f4b45db0ab5345ce11a.js": "/thatsitnothing.github.io/precache-manifest.0edd30420aad5f4b45db0ab5345ce11a.js",
+    "precache-manifest.c63c931af81a21917f5d60144581daa7.js": "/thatsitnothing.github.io/precache-manifest.c63c931af81a21917f5d60144581daa7.js",
     "service-worker.js": "/thatsitnothing.github.io/service-worker.js",
-    "static/css/main.ba4ec358.chunk.css.map": "/thatsitnothing.github.io/static/css/main.ba4ec358.chunk.css.map",
+    "static/css/main.8d090ef1.chunk.css.map": "/thatsitnothing.github.io/static/css/main.8d090ef1.chunk.css.map",
     "static/js/2.88f1cc07.chunk.js.LICENSE": "/thatsitnothing.github.io/static/js/2.88f1cc07.chunk.js.LICENSE",
     "static/media/bkgimage.css": "/thatsitnothing.github.io/static/media/background.71a9986e.jpg",
     "static/media/App.css": "/thatsitnothing.github.io/static/media/backgroundlogo.33e41993.svg",
-    "static/media/bkgvidmtn.mp4": "/thatsitnothing.github.io/static/media/bkgvidmtn.5ec56a3d.mp4",
     "static/media/scroll.css": "/thatsitnothing.github.io/static/media/shopsnow.408b23f1.jpg",
     "static/media/camonoback.png": "/thatsitnothing.github.io/static/media/camonoback.331041ad.png",
     "static/media/dropnoback.png": "/thatsitnothing.github.io/static/media/dropnoback.b9afa7d7.png",
     "static/media/glitchnoback.png": "/thatsitnothing.github.io/static/media/glitchnoback.ce742105.png",
     "static/media/hovercard.css": "/thatsitnothing.github.io/static/media/secondfinalcamo.4dee89a3.jpg",
     "static/media/scroll.scss": "/thatsitnothing.github.io/static/media/gradpart1glitchs.056ee852.png",
-    "static/media/mtnmaybe.png": "/thatsitnothing.github.io/static/media/mtnmaybe.77df0b6e.png"
+    "static/media/mtnmaybe.png": "/thatsitnothing.github.io/static/media/mtnmaybe.77df0b6e.png",
+    "static/media/taffy2.mp4": "/thatsitnothing.github.io/static/media/taffy2.ab1d1603.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.99134bd1.js",
     "static/js/2.88f1cc07.chunk.js",
-    "static/css/main.ba4ec358.chunk.css",
-    "static/js/main.cd6e9611.chunk.js"
+    "static/css/main.8d090ef1.chunk.css",
+    "static/js/main.bee48a1f.chunk.js"
   ]
 }
