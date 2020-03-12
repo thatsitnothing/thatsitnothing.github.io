@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d2d33583ed6cf79abd1d97f40bc0d2c",
+    "revision": "84c05424a555fb4d51488ec8d2c37c4e",
     "url": "/thatsitnothing.github.io/index.html"
   },
   {
-    "revision": "8749ef1f3236d21aac4b",
-    "url": "/thatsitnothing.github.io/static/css/main.3fe2c708.chunk.css"
+    "revision": "eee8ca6f5da5e517e7e3",
+    "url": "/thatsitnothing.github.io/static/css/main.f66522d5.chunk.css"
   },
   {
     "revision": "f29574eead6f52a07ee7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thatsitnothing.github.io/static/js/2.88f1cc07.chunk.js.LICENSE"
   },
   {
-    "revision": "8749ef1f3236d21aac4b",
+    "revision": "eee8ca6f5da5e517e7e3",
     "url": "/thatsitnothing.github.io/static/js/main.e5a9b49b.chunk.js"
   },
   {
