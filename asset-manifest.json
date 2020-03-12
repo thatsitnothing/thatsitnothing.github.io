@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/thatsitnothing.github.io/static/css/main.4e7b7b17.chunk.css",
+    "main.css": "/thatsitnothing.github.io/static/css/main.0b228554.chunk.css",
     "main.js": "/thatsitnothing.github.io/static/js/main.e5a9b49b.chunk.js",
     "main.js.map": "/thatsitnothing.github.io/static/js/main.e5a9b49b.chunk.js.map",
     "runtime-main.js": "/thatsitnothing.github.io/static/js/runtime-main.99134bd1.js",
@@ -8,9 +8,9 @@
     "static/js/2.88f1cc07.chunk.js": "/thatsitnothing.github.io/static/js/2.88f1cc07.chunk.js",
     "static/js/2.88f1cc07.chunk.js.map": "/thatsitnothing.github.io/static/js/2.88f1cc07.chunk.js.map",
     "index.html": "/thatsitnothing.github.io/index.html",
-    "precache-manifest.7df987c8a7d0b030396e02e2416ed223.js": "/thatsitnothing.github.io/precache-manifest.7df987c8a7d0b030396e02e2416ed223.js",
+    "precache-manifest.8bff726558911f0b6ad04a1a8591efe3.js": "/thatsitnothing.github.io/precache-manifest.8bff726558911f0b6ad04a1a8591efe3.js",
     "service-worker.js": "/thatsitnothing.github.io/service-worker.js",
-    "static/css/main.4e7b7b17.chunk.css.map": "/thatsitnothing.github.io/static/css/main.4e7b7b17.chunk.css.map",
+    "static/css/main.0b228554.chunk.css.map": "/thatsitnothing.github.io/static/css/main.0b228554.chunk.css.map",
     "static/js/2.88f1cc07.chunk.js.LICENSE": "/thatsitnothing.github.io/static/js/2.88f1cc07.chunk.js.LICENSE",
     "static/media/bkgimage.css": "/thatsitnothing.github.io/static/media/background.71a9986e.jpg",
     "static/media/App.css": "/thatsitnothing.github.io/static/media/backgroundlogo.33e41993.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.99134bd1.js",
     "static/js/2.88f1cc07.chunk.js",
-    "static/css/main.4e7b7b17.chunk.css",
+    "static/css/main.0b228554.chunk.css",
     "static/js/main.e5a9b49b.chunk.js"
   ]
 }
